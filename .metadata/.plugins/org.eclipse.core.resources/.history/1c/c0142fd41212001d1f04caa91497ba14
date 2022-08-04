@@ -1,0 +1,22 @@
+package nextStepProjectStep2;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class StringCalculatorTest {
+
+	StringCalculator sc ;
+	
+	@BeforeEach
+	void start() {
+		sc = new StringCalculator();
+	}
+	
+	@Test
+	void test() {
+		
+	}
+
+}

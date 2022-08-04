@@ -1,0 +1,19 @@
+package nextStepProjectStep2;
+
+
+
+class StringCalculatorTest {
+
+	StringCalculator sc ;
+	
+	@BeforeEach
+	void start() {
+		sc = new StringCalculator();
+	}
+	
+	@Test
+	void test() {
+		sc.stringCalculator("1,2,3");
+	}
+
+}

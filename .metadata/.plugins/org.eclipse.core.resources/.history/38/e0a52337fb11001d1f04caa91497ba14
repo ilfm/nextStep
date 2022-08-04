@@ -1,0 +1,6 @@
+package nextStepProjectStep2;
+
+@Test
+public class StringCalculatorTest {
+
+}

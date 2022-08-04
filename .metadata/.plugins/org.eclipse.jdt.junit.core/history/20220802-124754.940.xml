@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringCalculatorTest (1)" project="nextStepProjectStep2" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="nextStepProjectStep2.StringCalculatorTest" time="0.0">
+    <testcase name="testStringCalculater" classname="nextStepProjectStep2.StringCalculatorTest" time="0.0"/>
+    <testcase name="testCustomStringCalculater" classname="nextStepProjectStep2.StringCalculatorTest" time="0.0"/>
+  </testsuite>
+</testrun>

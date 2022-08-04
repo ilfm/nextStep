@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun StringCalculatorTest (1) (Failed Tests first)" project="nextStepProjectStep2" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="nextStepProjectStep2.StringCalculatorTest" time="0.003">
+    <testcase name="testExpectedException" classname="nextStepProjectStep2.StringCalculatorTest" time="0.0"/>
+    <testcase name="testStringCalculater" classname="nextStepProjectStep2.StringCalculatorTest" time="0.0"/>
+    <testcase name="testExpectedExceptionWithRule" classname="nextStepProjectStep2.StringCalculatorTest" time="0.0"/>
+    <testcase name="testCustomStringCalculater" classname="nextStepProjectStep2.StringCalculatorTest" time="0.003"/>
+  </testsuite>
+</testrun>

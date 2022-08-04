@@ -1,0 +1,22 @@
+package nextStepProjectStep2;
+
+public class StringCalculator {
+
+	public void stringCalculator(String str) {
+		
+		String patter = "";
+		str = str.replaceAll(patter, "");
+		System.out.println("str===="+str);
+		
+	}
+	public void cutomStringCalculator(String str) {
+		
+		//, : 구분자 분리
+		// , 있는지 체크
+		// 있으면  분리
+		//: 있는지 체크 
+		// 있으면 분리
+		// 더하기 
+		
+	}
+}
